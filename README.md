@@ -1,0 +1,1 @@
+Este projeto em C# é um projeto do SENAI que foi passado como avaliação na Unidade Curricular de Programação de Objetos, a proposta desse projeto é criar um RPG de texto, com mecânica de rolagem de dados, classes de personagem, sistemas de luta e Mini-Quests usando a linguagem C# 
